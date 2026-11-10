@@ -1,0 +1,1 @@
+{"name":"principalcc","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","ait:build":"ait build","check":"node tests/validate.mjs"},"dependencies":{"@apps-in-toss/web-framework":"^3.0.0"},"devDependencies":{"vite":"6.3.0","typescript":"5.8.3"}}
