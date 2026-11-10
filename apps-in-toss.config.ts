@@ -1,0 +1,2 @@
+import { defineConfig } from '@apps-in-toss/web-framework/config';
+export default defineConfig({appName:'principalcc',brand:{displayName:'본전 계산기',primaryColor:'#5174ED',icon:'https://raw.githubusercontent.com/Dongsunkim/PrincipalCC/main/public/icon.svg'},web:{host:'localhost',port:5173,commands:{dev:'vite --host 0.0.0.0',build:'vite build'}},permissions:[],outdir:'dist',webViewProps:{type:'game',bounces:false,pullToRefreshEnabled:false}});
